@@ -1,2 +1,4 @@
 config.py
 .vscode
+__pycache__
+prev_tweet_id.txt
